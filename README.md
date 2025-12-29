@@ -1,2 +1,2 @@
 # gitlab6
-hello people
+hello people!
